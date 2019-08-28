@@ -33,6 +33,14 @@ It has been successfully used in a number of different scenarios, including:
 
 Written in Go, gitleaks is available in binary form for many popular platforms and OS types from the [releases page](https://github.com/zricethezav/gitleaks/releases). Alternatively, executed via Docker or it can be installed using Go directly, as per the below;
 
+#### Source
+
+```bash
+sudo ./dependencies.sh
+make build-all
+```
+
+
 #### MacOS
 
 ```
